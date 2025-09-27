@@ -34,7 +34,7 @@ It is designed as a **Teacher’s Learning Management System**, helping track an
 ## 🚀 How to Run
 1. Clone this repository:  
 ```bash
-   git clone https://github.com/your-username/teachers-lms.git
+   git clone https://github.com/earlfranciss/LearnLog.git
 ````
 
 2. Open in your preferred IDE (**NetBeans, IntelliJ, or Eclipse**).
