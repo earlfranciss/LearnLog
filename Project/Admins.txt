@@ -1,0 +1,10 @@
+cbaadmin, admin123
+ccaadmin, admin123
+ccjadmin, admin123
+ccsadmin, admin123
+chtmadmin, admin123
+cmeadmin, admin123
+cmtadmin, admin123
+cnadmin, admin123
+coeadmin, admin123
+cteadmin, admin123

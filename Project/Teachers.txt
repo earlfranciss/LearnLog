@@ -1,0 +1,3 @@
+1000,qwerty,Earl Francis,Ong,Computer Studies,Computer Science,Male,2002-01-08,Artificial Intelligence and Machine Learning: Exploring the Future,5,Software Engineering Best Practices and Agile Methodologies,10,DevOps: Bridging the Gap between Development and Operations,5
+1001,12345,G-Lord,Hiyas,Computer Studies,Cybersecurity,Male,2023-05-19
+1002,12345,Stephen,Amistoso,Computer Studies,Software Engineering,Male,2002-01-08,Software Engineering Best Practices and Agile Methodologies,5,DevOps: Bridging the Gap between Development and Operations,5

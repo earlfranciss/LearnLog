@@ -1,0 +1,27 @@
+2023-05-20,Artificial Intelligence and Machine Learning: Exploring the Future,Computer Studies,Machine Learning,SM City Cebu,Aldryan,Bakal,Machine Learning
+2023-06-09,Cybersecurity and Data Privacy: Protecting Your Digital Assets,Computer Studies,Cybersecurity,SM Seaside City Cebu,G-Lord,Hiyas,Cybersecurity
+2024-01-29,Ethical Hacking and Cybersecurity: Safeguarding Digital Assets,Computer Studies,Cybersecurity,SM Seaside City Cebu,Kent Lloyd,Javier,Cybersecurity
+2024-03-23,Cloud Computing and Infrastructure as a Service,Computer Studies,Database Administration,Waterfront Cebu City Hotel and Casino,Jundix,Pepino,Database Administration
+2024-06-27,Data Science and Big Data Analytics,Computer Studies,Data Science,Marco Polo Plaza Cebu,Janvel,Andrino,Data Science
+2023-02-21,Software Engineering Best Practices and Agile Methodologies,Computer Studies,Software Engineering,Ayala Center Cebu,James,Embudo,Software Engineering
+2023-09-24,Human-Computer Interaction and User Experience Design,Computer Studies,Information Technology,SM Seaside City Cebu,John Carlo,Diocampo,Information Technology
+2023-03-13,Machine Learning and Deep Learning: Advancements and Applications,Computer Studies,Machine Learning,Waterfront Cebu City Hotel and Casino,Enrico Adrian,Singculan,Machine Learning
+2023-09-16,Fundamentals of IT Project Management: Principles and Best Practices,Computer Studies,IT Project Management,Marco Polo Plaza Cebu,Euan,Flores,IT Project Management
+2024-10-17,DevOps: Bridging the Gap between Development and Operations,Computer Studies,Software Engineering,Ayala Center Cebu,Alan,Dosado,Software Engineering
+2023-03-11,IT Project Initiation and Planning,Computer Studies,IT Project Management,Cebu International Convention Center,Lars,Pino,IT Project Management
+2023-12-12,IT Project Leadership and Team Building,Computer Studies,IT Project Management,Cebu International Convention Center,Ana,Perdiguez,IT Project Management
+2023-11-18,Internet of Things (IoT) and Software Engineering,Computer Studies,Software Engineering,Waterfront Cebu City Hotel and Casino,Jayhudson,Ybarra,Software Engineering
+2023-11-03,Data Governance and Metadata Management,Computer Studies,Database Administration,Ayala Center Cebu,John Paul,Macua,Database Administration
+2023-05-02,Database Security and Access Control,Computer Studies,Database Administration,Cebu International Convention Center,Alan,Dosado,Software Engineering
+2023-08-07,Cloud Networking and Hybrid Network Architectures,Computer Studies,Network Administration,Waterfront Cebu City Hotel and Casino,Miranda,Arriola,Network Administration
+2023-05-05,Wireless Network Administration and Security,Computer Studies,Network Administration,Cebu International Convention Center,Miranda,Arriola,Network Administration
+2023-07-28,Software-Defined Networking (SDN) and Network Virtualization,Computer Studies,Network Administration,SM Seaside City Cebu,Kent Lloyd,Javier,Cybersecurity
+2023-04-07,IT Infrastructure and Data Center Management,Computer Studies,Information Technology,Waterfront Cebu City Hotel and Casino,Enrico Adrian,Singculan,Machine Learning
+2024-02-04,Introduction to Information Technology: Overview and Emerging Trends,Computer Studies,Information Technology,Cebu International Convention Center,James,Embudo,Software Engineering
+2024-02-09,Quantum Computing and Quantum Algorithms,Computer Studies,Computer Science,Ayala Center Cebu,Lars,Pino,IT Project Management
+2024-11-01,Natural Language Processing and Computational Linguistics,Computer Studies,Computer Science,Waterfront Cebu City Hotel and Casino,Jundix,Pepino,Database Administration
+2024-10-02,Ensemble Methods and Model Stacking,Computer Studies,Data Science,Ayala Center Cebu,Janvel,Andrino,Data Science
+2024-10-28,Graph Analytics and Network Analysis,Computer Studies,Data Science,Marco Polo Plaza Cebu,John Paul,Macua,Database Administration
+2023-05-27,Internet of Things,Computer Studies,Machine Learning,UCLM,Earl Francis,Ong,Software Engineering
+2023-05-30,Artificial Intelligence,Computer Studies,Machine Learning,SM Seaside Cebu,Earl Francis,Ong,Machine Learning
+2023-05-31,Network Architecture,Computer Studies,Network Administration,SM Seaside Cebu,Earl Francis,Ong,Network Administration
